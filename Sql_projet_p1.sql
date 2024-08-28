@@ -2,7 +2,6 @@ USE RETAIL_SALES;
 SELECT NAME FROM sys.tables;
 
 SELECT TOP 10 * FROM RetailSalesData;
--- cogs is the purchasing cost --
   
 -- DATA CLEANING 
      -- Check nulls
